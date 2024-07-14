@@ -56,6 +56,12 @@ Crud Usuários é uma aplicação desenvolvida em Angular 18.1.0 e TypeScript 5.
 
 ## Uso
 
+### Tela de Login
+
+Tela de login meramente ilustrativa, sem autenticação real.
+
+![Tela de Login](https://github.com/LucasBLs/crud-usuarios-angular-18/blob/main/blob/main/images/tela_login.png)
+
 ### Tela Inicial
 
 A tela inicial exibe gráficos e informações ilustrativas. Não há autenticação no backend; os dados são fixos.
@@ -67,12 +73,6 @@ A tela inicial exibe gráficos e informações ilustrativas. Não há autentica�
 Nesta tela, você pode gerenciar usuários, adicionando, editando ou removendo registros.
 
 ![Cadastro de Usuários](https://github.com/LucasBLs/crud-usuarios-angular-18/blob/main/blob/main/images/cadastro_usuarios.png)
-
-### Tela de Login
-
-Tela de login meramente ilustrativa, sem autenticação real.
-
-![Tela de Login](https://github.com/LucasBLs/crud-usuarios-angular-18/blob/main/blob/main/images/tela_login.png)
 
 ## Contribuição
 
